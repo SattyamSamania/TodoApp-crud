@@ -1,5 +1,3 @@
-Here's the Screenshot of the App
-![Screenshot (13)](https://github.com/SattyamSamania/TodoApp-crud/assets/67833888/754c9eef-9442-41ae-800e-2eb55a4fff1c)
 
 
 # Getting Started with Create React App
